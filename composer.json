@@ -1,0 +1,17 @@
+{
+    "name": "narhzih/oxygen",
+    "description": "A simple PHP framework for implementing MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Narhzih",
+            "email": "omosekejiolawale@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
